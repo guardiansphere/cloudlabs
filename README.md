@@ -15,3 +15,6 @@ Test automated response workflows using tools like Azure Logic Apps, AWS Step Fu
 Explore how different cloud services behave under attack and how telemetry can be used for defense
 
 💸 Note: Each scenario includes an estimated cost per lab/day, so users can plan and spin up environments with cost awareness.
+
+## Azure Labs
+- [Basic VM Lab](labs/azure/basic-vm-lab/README.md) – Deploys a Windows VM with RDP open for initial attack scenarios.
